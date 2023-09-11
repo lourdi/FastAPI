@@ -4,3 +4,4 @@ gunicorn
 camelot-py
 pdf2image
 Pillow
+hypercorn
