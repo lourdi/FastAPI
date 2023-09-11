@@ -1,6 +1,6 @@
 fastapi[all]
 uvicorn
 gunicorn
-camelot-py[cv]
+camelot-py
 pdf2image
 Pillow
